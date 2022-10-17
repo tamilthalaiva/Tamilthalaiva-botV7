@@ -1,5 +1,5 @@
 See<p align="center">
-  <img src="assets/AJAX.png" alt="Ajax Techz">
+  <img src="assets/AJAX.png" alt="Tamil Thalaiva">
 </p>
 <h1 align="center">
   <b>ᗩᒍᗩ᙭ 𝙸𝙼𝙳𝙱 𝙱𝙾𝚃 𝚅3</b>
@@ -96,5 +96,5 @@ python3 bot.py
 • /broadcast - to broadcast a message to Ajax users
 ```
 
-<b>ᴅᴇᴠᴇʟᴏᴘᴇʀ ›› [ᴀᴀᴅʜɪ](https://telegram.dog/Tamil_Thalaiva) | [ɪɴsᴛᴀɢʀᴀᴍ]</b>                                                                                                                                                                                    
+<b>ᴅᴇᴠᴇʟᴏᴘᴇʀ ›› [ᴀᴀᴅʜɪ](https://telegram.dog/Tamil_Thalaiva)</b>                                                                                                                                                                                    
 <b>ᴄʜᴀɴɴᴇʟ ›› [ᴍᴡ ᴜᴘᴅᴀᴛᴇᴢ](https://t.me/+SezEwPMIqT04MDk1)</b>
